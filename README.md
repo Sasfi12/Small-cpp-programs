@@ -1,2 +1,2 @@
-# Small-cpp-programms
-A set of random c++ programms I made for fun. 
+# Small-cpp-programs
+A set of random c++ programs I made for fun. 
